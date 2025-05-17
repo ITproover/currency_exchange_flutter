@@ -1,0 +1,23 @@
+name: currency_exchange_flutter
+description: "Currency exchange app"
+publish_to: 'none' # this project is not intended to be published
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ^0.13.6
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
