@@ -1,4 +1,5 @@
 # currency_exchange_flutter
+<<<<<<< HEAD
 
 Currency exchange app
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Simple Flutter app for real-time currency exchange rates
+>>>>>>> a3320da4a07050ff0482e36f530b9fd21a26d7af
